@@ -8,7 +8,6 @@ numpy
 pandas
 matplotlib
 LunarCalendar
-covertdate
 holidays
 setuptools-git
 python-dateutil
