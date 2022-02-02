@@ -1,6 +1,6 @@
+convertdate
+pystan
 streamlit
 yfinance
 plotly
-convertdate
-pystan
 fbprophet
