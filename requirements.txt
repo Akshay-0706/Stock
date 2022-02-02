@@ -1,4 +1,6 @@
-fbprophet
-plotly
 streamlit
 yfinance
+plotly
+convertdate
+pystan
+fbprophet
