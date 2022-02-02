@@ -1,6 +1,7 @@
-convertdate
-pystan
+matplotlib
+numpy
+pandas
+pandas_datareader
+scikit_learn
 streamlit
-yfinance
-plotly
-fbprophet
+tensorflow
